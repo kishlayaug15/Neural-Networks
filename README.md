@@ -1,3 +1,3 @@
 # Neural-Networks
 
-My work related to Neural Newtworks are stored here.
+My work related to Neural-Networks are stored here.
